@@ -1,0 +1,16 @@
+{
+  "name": "testing-repo",
+  "version": "1.0.0",
+  "description": "Repo meant for testing open source knowledge",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
