@@ -3,7 +3,7 @@ import express from "express"
 const app = express()
 
 app.get('/', (req, res) => {
-    res.status(200).send("<h1>This is an express project. This is some other line.</h1>")
+    res.status(200).send("<h1>This is an express project. This is another line.</h1>")
 })
 
 app.listen(3000, () => {
